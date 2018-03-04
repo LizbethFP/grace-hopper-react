@@ -2,3 +2,21 @@ aside {
   width: 20%;
   display: inline-block;
 }
+
+.summary-table {
+    border: 1px solid #a2a9b1;
+    background-color: #f8f9fa;
+    padding: 1px;
+    font-size: 14px;
+}
+
+.summary-table thead th {
+    background-color: #B0C4DE;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: 16px;
+}
+
+.text-content {
+  line-height: 24px;
+}
