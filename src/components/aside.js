@@ -10,12 +10,12 @@ class Aside extends Component {
         <table className="summary-table">
           <thead>
             <tr>
-              <th colspan="2" className="text-center p-3">Grace Murray Hopper</th>
+              <th colSpan="2" className="text-center p-3">Grace Murray Hopper</th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td colspan="2" className="px-2">
+              <td colSpan="2" className="px-2">
                 <img src={graceHopper} alt="Grace Hopper Picture"></img>
                   <p className="text-center mt-2">Rear Admiral Grace M. Hopper, 1984</p>
                   <hr></hr>
